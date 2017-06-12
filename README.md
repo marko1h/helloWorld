@@ -1,2 +1,3 @@
 # helloWorld
-oma varasto
+
+ok tämä näyttää jo paikalta mihin laittaa koodia
